@@ -119,6 +119,39 @@ Wearable safety device integrating GPS, light, motion, and alert sensors with re
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kavindya-Kariyawasam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindya-Kariyawasam&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindya-Kariyawasam&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavindya-Kariyawasam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,PullRequest,Followers" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kavindya-Kariyawasam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+✨ **Like what you see? Don’t forget to star some repositories!** ✨
+
+</div>
+
+---
+
 ## 🤝 Let's Connect  
 
 <div align="center">
