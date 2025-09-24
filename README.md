@@ -30,7 +30,6 @@
 - ☁️ Currently learning **AWS Cloud Practitioner Essentials**  
 - ✍️ Writing blogs on **React Native, AWS, and software development** on Medium  
 - 🏆 **HackerRank problem-solver** & lifelong learner  
-- 🔧 Passionate about **IoT projects** with ESP32 and Arduino  
 - 🌱 Always exploring new technologies and building real-world solutions  
 
 ---
@@ -147,5 +146,5 @@ Wearable safety device integrating GPS, light, motion, and alert sensors with re
 
 💡 Interested in technology, collaboration, and continuous growth.  
 📫 **Reach me at:** [kavindyakariyawasam01@gmail.com](mailto:kavindyakariyawasam01@gmail.com)  
-
+🌐 **Check out my portfolio:** [https://kavindya-kariyawasam.vercel.app](https://kavindya-kariyawasam.vercel.app)
 </div>
