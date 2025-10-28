@@ -14,6 +14,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kavindya-kariyawasam.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindya-kariyawasam/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kavindyakariyawasam01)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kavindyakariyaw1)
@@ -115,14 +116,6 @@ Wearable safety device integrating GPS, light, motion, and alert sensors with re
 **Tech Stack / Hardware:** ESP32, Neo-M8N GPS, BH1750 Light Sensor, ESP32-CAM, Arduino IDE, Microsoft Azure
 
 🔍 *Check out my repositories below for more projects and contributions!*
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavindya-Kariyawasam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,PullRequest,Followers" alt="GitHub Trophies"/>
-</div>
 
 ---
 
