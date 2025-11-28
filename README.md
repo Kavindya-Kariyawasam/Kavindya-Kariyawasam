@@ -85,6 +85,13 @@
 
 ## 🌟 Featured Projects
 
+### 🚗 AutoNova – Enterprise Automobile Service Management System - 2025
+Microservices Developer (Time Logging Service) | Team Size: 10  
+Cloud-native platform for service centers with employee work tracking, approval workflows, and cross-service data enrichment, containerization.  
+**Tech Stack:** Java 17, Spring Boot, Spring Cloud (Eureka, OpenFeign), PostgreSQL, Docker, TypeScript
+
+---
+
 ### 🏥 ATG Healthcare Management System - 2025
 Lead Mobile Developer & Backend Integrator | Team Size: 5  
 Cross-platform healthcare app with secure client–care navigator coordination, dashboards, and appointment scheduling.  
